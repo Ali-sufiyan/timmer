@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(60, 60, 60);
+}
+.timmer{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    /* padding: auto; */
+}
